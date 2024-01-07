@@ -36,4 +36,3 @@ Once upon a time, HTML was my compass, guiding me through the pixelated jungle o
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/mufidayaro"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-</ul>
